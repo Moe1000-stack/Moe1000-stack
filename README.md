@@ -20,14 +20,14 @@ https://github.com/Moe1000-stack/log-analyzer
 Python-based vulnerability scanner using Nmap for network analysis.  
 https://github.com/Moe1000-stack/vulnerability-scanner
 
-### Pizza Order Calculator
-Python project demonstrating input validation, business logic, and clean code structure.  
-https://github.com/Moe1000-stack/pizza-order-cost
+### Password Strength Checker
+Python tool that evaluates password strength based on security best practices, including length, complexity, and common weak password detection.  
+https://github.com/Moe1000-stack/password-strength-checker
 
 ---
 
 ## Technical Skills
-- Cybersecurity: Vulnerability Assessment, Log Analysis, Network Security
+- Cybersecurity: Vulnerability Assessment, Log Analysis, Password Security, Network Security
 - Tools: Nmap, Wireshark, Kali Linux, Burp Suite
 - Programming: Python, JavaScript
 - Cloud & Web: APIs, Next.js, GitHub
