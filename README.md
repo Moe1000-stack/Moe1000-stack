@@ -1,12 +1,14 @@
 # Hi, I'm Mohamed Salama
 
-Cybersecurity M.S. Graduate | Security+ • CySA+ • PenTest+ • CCNA  
-AI Engineering Apprentice | Python • Security Operations • Cloud  
+Cybersecurity M.S. Graduate | Software Developer | AI Engineering Apprentice  
+Python • JavaScript • TypeScript • Next.js • APIs • Security Automation
 
 ---
 
 ## About Me
-Cybersecurity professional focused on vulnerability assessment, log analysis, security automation, and practical Python-based security tools.
+Cybersecurity professional and software developer focused on building secure, practical applications with Python, JavaScript, APIs, and automation.
+
+I combine software engineering, security, and AI-assisted development to build tools that solve real-world technical problems.
 
 ---
 
@@ -26,11 +28,29 @@ https://github.com/Moe1000-stack/password-strength-checker
 
 ---
 
+## Software Development Projects
+
+### Task Manager API
+Backend project focused on REST APIs, CRUD operations, input validation, error handling, and clean project structure.  
+Coming soon.
+
+### AI Quiz Generator
+Next.js project focused on API routes, dynamic quiz generation, structured data validation, and frontend/backend application logic.  
+Coming soon.
+
+### Portfolio Website
+Personal website project focused on React/Next.js, responsive design, project showcase, and deployment.  
+Coming soon.
+
+---
+
 ## Technical Skills
+- Programming: Python, JavaScript, TypeScript, SQL
+- Web Development: Next.js, React, REST APIs, GitHub, Vercel
+- Backend Development: CRUD Operations, Input Validation, Error Handling, JSON, File Handling
 - Cybersecurity: Vulnerability Assessment, Log Analysis, Password Security, Network Security
-- Tools: Nmap, Wireshark, Kali Linux, Burp Suite
-- Programming: Python, JavaScript
-- Cloud & Web: APIs, Next.js, GitHub
+- Security Tools: Nmap, Wireshark, Kali Linux, Burp Suite
+- Software Practices: Git, GitHub, Documentation, Clean Code, Basic Testing
 
 ---
 
@@ -44,10 +64,10 @@ https://github.com/Moe1000-stack/password-strength-checker
 ---
 
 ## Current Focus
-- Building hands-on cybersecurity projects
-- Strengthening SOC analyst skills
-- Improving Python security automation
-- Applying for cybersecurity and IT roles
+- Building secure software and cybersecurity projects
+- Strengthening Python, JavaScript, TypeScript, and Next.js skills
+- Improving backend development and security automation
+- Applying for software developer, cybersecurity, and IT roles
 
 ---
 
