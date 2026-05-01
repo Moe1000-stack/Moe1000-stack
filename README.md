@@ -31,8 +31,8 @@ https://github.com/Moe1000-stack/password-strength-checker
 ## Software Development Projects
 
 ### Task Manager API
-Backend project focused on REST APIs, CRUD operations, input validation, error handling, and clean project structure.  
-Coming soon.
+Python Flask REST API for managing tasks with CRUD operations, input validation, error handling, and JSON-based storage.  
+https://github.com/Moe1000-stack/task-manager-api
 
 ### AI Quiz Generator
 Next.js project focused on API routes, dynamic quiz generation, structured data validation, and frontend/backend application logic.  
