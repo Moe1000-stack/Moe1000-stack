@@ -48,7 +48,22 @@ Coming soon.
 
 Personal website project focused on React/Next.js, responsive design, project showcase, and deployment.
 Coming soon.
+### Agentic Price Comparator
 
+Collaborative full-stack price comparison application built with React, TypeScript, Java, Spring Boot, and API integration.
+
+Contributed frontend and backend improvements, including dashboard search enhancements, settings and history views, demo fallback behavior for offline backend testing, backend response field fixes, and unit tests for price comparison logic.
+
+Key contributions:
+* Added functional dashboard Settings and Search History views
+* Added recent search storage using localStorage
+* Added default sort and minimum savings filter options
+* Added frontend demo fallback for offline backend development
+* Fixed backend/frontend response field naming mismatch
+* Added backend tests for price comparison calculations, duplicate filtering, and cached response compatibility
+
+Project: https://github.com/ChauAry21/agentic-price-comparator  
+Contributions: PR #22, PR #23, PR #24, PR #25
 ---
 
 ## Data Analysis Projects
