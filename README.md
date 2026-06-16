@@ -1,86 +1,161 @@
-<div align="center">
+# Hi, I'm Mohamed Salama 👋
 
-# Mohamed Salama
-### Cybersecurity Engineer · AI Developer · Software Engineer
+**Cybersecurity M.S. | AI Security Developer | Software Developer | AI Engineering Apprentice**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedsalamacyber)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Moe1000-stack)
+I build practical cybersecurity and AI-powered software tools using **Python, JavaScript, TypeScript, Next.js, APIs, automation, and security-focused engineering**.
 
-</div>
+My work combines **cybersecurity, software development, AI agents, RAG systems, data analysis, and automation** to solve real-world technical problems.
 
 ---
 
-## About Me
+## 🔐 Featured AI + Cybersecurity Projects
 
-Cybersecurity M.S. Graduate and Software Developer building AI-powered security tools, automation systems, and full-stack applications. I combine deep security expertise with modern AI development to create tools that solve real-world problems.
+### 🤖 [AI Security Agent](https://github.com/Moe1000-stack/ai-security-agent)
 
-- 🔐 5 security certifications: **Security+, CySA+, PenTest+, CCNA, ISTQB**
-- 🤖 Building AI agents and RAG systems with **Claude API**
-- 🛡️ Specializing in **SOC automation, threat detection, and security tooling**
-- 🐍 Primary stack: **Python · JavaScript · TypeScript · Next.js**
+AI-powered security log analysis tool using Claude AI with tool use.
 
----
+Detects suspicious activity such as:
 
-## AI Projects
+* Brute force attempts
+* Privilege escalation
+* Lateral movement
+* Suspicious authentication patterns
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [🤖 AI Security Agent](https://github.com/Moe1000-stack/ai-security-agent) | LLM-powered log analyzer with MITRE ATT&CK mapping and AI remediation | Claude API · Tool Use · Python |
-| [📚 RAG Chatbot](https://github.com/Moe1000-stack/rag-chatbot) | Chat with your own documents using retrieval-augmented generation | Claude API · ChromaDB · Embeddings |
-| [🔗 Multi-Agent System](https://github.com/Moe1000-stack/multi-agent-system) | Autonomous agents (Researcher → Writer → Reviewer → Critic) collaborating on tasks | Claude API · Python |
-| [👁️ AI Code Review Bot](https://github.com/Moe1000-stack/ai-code-review-bot) | GitHub Action that auto-reviews PRs and posts inline comments | Claude API · GitHub Actions |
+Maps findings to **MITRE ATT&CK techniques** such as `T1110`, `T1068`, and `T1021`, then generates AI-powered remediation steps.
+
+**Tech:** Python, Claude API, MITRE ATT&CK, Security Logs, HTML Reports
 
 ---
 
-## Cybersecurity Projects
+### 👁️ [AI Code Review Bot](https://github.com/Moe1000-stack/ai-code-review-bot)
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [🔍 SOC Log Analyzer](https://github.com/Moe1000-stack/soc-log-analyzer) | Detects brute force, port scans, and suspicious IPs from auth/Apache logs | Python · Colorama · Jinja2 |
-| [🌐 Network Vulnerability Scanner](https://github.com/Moe1000-stack/network-vuln-scanner) | Nmap-based scanner with banner grabbing, OS detection, and CVE lookup | Python · Nmap · NIST NVD API |
-| [🕵️ Threat Intel Dashboard](https://github.com/Moe1000-stack/threat-intel-dashboard) | Check IPs, domains, and hashes against AlienVault OTX and abuse.ch | Python · REST APIs |
-| [🛡️ Web Security Tester](https://github.com/Moe1000-stack/web-security-tester) | Tests for SQLi, XSS, open redirect, security headers, and path traversal | Python · BeautifulSoup |
-| [⚙️ CI/CD Security Scanner](https://github.com/Moe1000-stack/cicd-security-scanner) | Scans code for secrets, weak crypto, and IaC misconfigs. Outputs SARIF for GitHub | Python · GitHub Actions · SARIF |
+GitHub Action that automatically reviews Pull Requests using Claude AI.
 
----
+The bot parses unified diffs, analyzes changed files, and identifies:
 
-## Tech Stack
+* Security vulnerabilities
+* Bugs
+* Performance issues
+* Code quality problems
+* Style improvements
 
-**Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+It posts review comments directly on GitHub Pull Requests.
 
-**AI & Security**
-![Claude](https://img.shields.io/badge/Claude_API-D97757?style=flat&logo=anthropic&logoColor=white)
-![LangChain](https://img.shields.io/badge/ChromaDB-1C3C3C?style=flat)
-![MITRE](https://img.shields.io/badge/MITRE_ATT%26CK-BE0000?style=flat)
-![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=flat)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white)
-
-**Web & Backend**
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-
-**Tools**
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+**Tech:** Python, GitHub Actions, Claude API, CI/CD, Code Security
 
 ---
 
-## Certifications
+### 📚 [RAG Chatbot](https://github.com/Moe1000-stack/rag-chatbot)
 
-![Security+](https://img.shields.io/badge/CompTIA-Security%2B-FF0000?style=flat&logo=comptia&logoColor=white)
-![CySA+](https://img.shields.io/badge/CompTIA-CySA%2B-FF0000?style=flat&logo=comptia&logoColor=white)
-![PenTest+](https://img.shields.io/badge/CompTIA-PenTest%2B-FF0000?style=flat&logo=comptia&logoColor=white)
-![CCNA](https://img.shields.io/badge/Cisco-CCNA-1BA0D7?style=flat&logo=cisco&logoColor=white)
-![ISTQB](https://img.shields.io/badge/ISTQB-Certified_Tester-009CDE?style=flat)
+Chat with your own documents using Retrieval-Augmented Generation.
+
+Supports PDF, TXT, Markdown, and CSV files. Documents are chunked, embedded locally, stored in ChromaDB, and queried through Claude API with grounded answers based on the uploaded content.
+
+**Tech:** Python, RAG, ChromaDB, Sentence Transformers, Claude API, Document AI
 
 ---
 
-<div align="center">
-<i>Open to roles in Cybersecurity Engineering, AI Development, and Security Automation</i>
-</div>
+### 🔗 [Multi-Agent System](https://github.com/Moe1000-stack/multi-agent-system)
+
+A multi-agent AI workflow where four autonomous agents collaborate through a shared pipeline:
+
+**Researcher → Writer → Reviewer → Critic**
+
+Each agent has a specialized role, shares memory, and passes context automatically to the next agent.
+
+**Tech:** Python, AI Agents, Claude API, Workflow Automation, Shared Memory
+
+---
+
+## 🛡️ Cybersecurity Projects
+
+### [SOC Log Analyzer](https://github.com/Moe1000-stack/-soc-log-analyzer)
+
+SOC-style log analysis tool that detects brute force attacks, port scans, and suspicious IP activity from authentication and web server logs.
+
+Generates colored terminal alerts plus HTML and JSON reports.
+
+**Tech:** Python, Log Analysis, SOC Automation, Threat Detection
+
+---
+
+### [Network Vulnerability Scanner](https://github.com/Moe1000-stack/network-vuln-scanner)
+
+Network vulnerability scanner with Nmap integration, service banner grabbing, OS fingerprinting, and automatic CVE lookup using the NIST NVD API.
+
+Generates HTML and JSON reports for vulnerability assessment.
+
+**Tech:** Python, Nmap, NIST NVD API, CVE Lookup, Network Security
+
+---
+
+### [Password Strength Checker](https://github.com/Moe1000-stack/password-strength-checker)
+
+Python tool that evaluates password strength based on length, complexity, and common weak password patterns.
+
+**Tech:** Python, Password Security, Input Validation
+
+---
+
+## 💻 Software Development Projects
+
+### [Task Manager API](https://github.com/Moe1000-stack/task-manager-api)
+
+Python Flask REST API for managing tasks with CRUD operations, input validation, error handling, and JSON-based storage.
+
+**Tech:** Python, Flask, REST API, CRUD, JSON
+
+---
+
+### [Agentic Price Comparator](https://github.com/ChauAry21/agentic-price-comparator)
+
+Collaborative full-stack price comparison application built with React, TypeScript, Java, Spring Boot, and API integration.
+
+My contributions included:
+
+* Built functional dashboard Settings and Search History views
+* Added recent search storage using `localStorage`
+* Added default sorting and minimum savings filter options
+* Added frontend demo fallback for offline backend development
+* Fixed backend/frontend response field naming mismatch
+* Added backend tests for price comparison calculations
+
+**Tech:** React, TypeScript, Java, Spring Boot, REST APIs, Testing
+
+---
+
+## 📊 Data Analysis Project
+
+### [Aviation Accident Analysis](https://github.com/Moe1000-stack/dsc-course0-m8-lab)
+
+Data analysis project using Python to explore aviation accident data, clean datasets, analyze patterns, and visualize findings.
+
+**Tech:** Python, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook
+
+---
+
+## 🧰 Technical Skills
+
+**Programming:** Python, JavaScript, TypeScript, SQL
+**AI Engineering:** Claude API, RAG, AI Agents, Prompt Engineering, ChromaDB, Sentence Transformers
+**Web Development:** Next.js, React, REST APIs, GitHub Actions, Vercel
+**Cybersecurity:** Log Analysis, Vulnerability Assessment, Network Security, Password Security, Security Automation
+**Security Tools:** Nmap, Wireshark, Kali Linux, Burp Suite
+**Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook
+
+---
+
+## 📜 Certifications
+
+* CompTIA Security+
+* CompTIA CySA+
+* CompTIA PenTest+
+* Cisco CCNA
+* ISTQB Certified Tester
+
+---
+
+## 📫 Connect
+
+**LinkedIn:** [linkedin.com/in/mohamedsalamacyber](https://www.linkedin.com/in/mohamedsalamacyber)
+**GitHub:** [github.com/Moe1000-stack](https://github.com/Moe1000-stack)
