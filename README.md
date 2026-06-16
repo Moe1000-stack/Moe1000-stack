@@ -1,114 +1,86 @@
-# Hi, I'm Mohamed Salama
+<div align="center">
 
-Cybersecurity M.S. Graduate | Software Developer | AI Engineering Apprentice
-Python • JavaScript • TypeScript • Next.js • APIs • Security Automation • Data Analysis
+# Mohamed Salama
+### Cybersecurity Engineer · AI Developer · Software Engineer
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedsalamacyber)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Moe1000-stack)
+
+</div>
 
 ---
 
 ## About Me
 
-I'm a cybersecurity professional and software developer focused on building secure, practical applications with Python, JavaScript, APIs, and automation.
+Cybersecurity M.S. Graduate and Software Developer building AI-powered security tools, automation systems, and full-stack applications. I combine deep security expertise with modern AI development to create tools that solve real-world problems.
 
-I combine software engineering, cybersecurity, data analysis, and AI-assisted development to build tools that solve real-world technical problems.
-
----
-
-## Featured Cybersecurity Projects
-
-### Log Analyzer
-
-Python tool for detecting failed login attempts and suspicious IP activity from authentication logs.
-https://github.com/Moe1000-stack/log-analyzer
-
-### Vulnerability Scanner
-
-Python-based vulnerability scanner using Nmap for network analysis.
-https://github.com/Moe1000-stack/vulnerability-scanner
-
-### Password Strength Checker
-
-Python tool that evaluates password strength based on length, complexity, and common weak password patterns.
-https://github.com/Moe1000-stack/password-strength-checker
+- 🔐 5 security certifications: **Security+, CySA+, PenTest+, CCNA, ISTQB**
+- 🤖 Building AI agents and RAG systems with **Claude API**
+- 🛡️ Specializing in **SOC automation, threat detection, and security tooling**
+- 🐍 Primary stack: **Python · JavaScript · TypeScript · Next.js**
 
 ---
 
-## Software Development Projects
+## AI Projects
 
-### Task Manager API
-
-Python Flask REST API for managing tasks with CRUD operations, input validation, error handling, and JSON-based storage.
-https://github.com/Moe1000-stack/task-manager-api
-
-### AI Quiz Generator
-
-Next.js project focused on API routes, dynamic quiz generation, structured data validation, and frontend/backend application logic.
-Coming soon.
-
-### Portfolio Website
-
-Personal website project focused on React/Next.js, responsive design, project showcase, and deployment.
-Coming soon.
-### Agentic Price Comparator
-
-Collaborative full-stack price comparison application built with React, TypeScript, Java, Spring Boot, and API integration.
-
-Contributed frontend and backend improvements, including dashboard search enhancements, settings and history views, demo fallback behavior for offline backend testing, backend response field fixes, and unit tests for price comparison logic.
-
-Key contributions:
-* Added functional dashboard Settings and Search History views
-* Added recent search storage using localStorage
-* Added default sort and minimum savings filter options
-* Added frontend demo fallback for offline backend development
-* Fixed backend/frontend response field naming mismatch
-* Added backend tests for price comparison calculations, duplicate filtering, and cached response compatibility
-
-Project: https://github.com/ChauAry21/agentic-price-comparator  
-Contributions: PR #22, PR #23, PR #24, PR #25
----
-
-## Data Analysis Projects
-
-### Aviation Accident Analysis
-
-Data analysis project using Python, Pandas, NumPy, Matplotlib, Seaborn, and Jupyter Notebook to clean and analyze aviation accident data from 1983 onward.
-
-The project evaluates aircraft makes and models using fatal/serious injury rate, aircraft destruction rate, sample-size thresholds, and safety-related factors such as weather condition and phase of flight.
-https://github.com/Moe1000-stack/dsc-course0-m8-lab
+| Project | Description | Tech |
+|---------|-------------|------|
+| [🤖 AI Security Agent](https://github.com/Moe1000-stack/ai-security-agent) | LLM-powered log analyzer with MITRE ATT&CK mapping and AI remediation | Claude API · Tool Use · Python |
+| [📚 RAG Chatbot](https://github.com/Moe1000-stack/rag-chatbot) | Chat with your own documents using retrieval-augmented generation | Claude API · ChromaDB · Embeddings |
+| [🔗 Multi-Agent System](https://github.com/Moe1000-stack/multi-agent-system) | Autonomous agents (Researcher → Writer → Reviewer → Critic) collaborating on tasks | Claude API · Python |
+| [👁️ AI Code Review Bot](https://github.com/Moe1000-stack/ai-code-review-bot) | GitHub Action that auto-reviews PRs and posts inline comments | Claude API · GitHub Actions |
 
 ---
 
-## Technical Skills
+## Cybersecurity Projects
 
-* Programming: Python, JavaScript, TypeScript, SQL
-* Data Analysis: Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook
-* Web Development: Next.js, React, REST APIs, GitHub, Vercel
-* Backend Development: CRUD Operations, Input Validation, Error Handling, JSON, File Handling
-* Cybersecurity: Vulnerability Assessment, Log Analysis, Password Security, Network Security
-* Security Tools: Nmap, Wireshark, Kali Linux, Burp Suite
-* Software Practices: Git, GitHub, Documentation, Clean Code, Basic Testing
+| Project | Description | Tech |
+|---------|-------------|------|
+| [🔍 SOC Log Analyzer](https://github.com/Moe1000-stack/soc-log-analyzer) | Detects brute force, port scans, and suspicious IPs from auth/Apache logs | Python · Colorama · Jinja2 |
+| [🌐 Network Vulnerability Scanner](https://github.com/Moe1000-stack/network-vuln-scanner) | Nmap-based scanner with banner grabbing, OS detection, and CVE lookup | Python · Nmap · NIST NVD API |
+| [🕵️ Threat Intel Dashboard](https://github.com/Moe1000-stack/threat-intel-dashboard) | Check IPs, domains, and hashes against AlienVault OTX and abuse.ch | Python · REST APIs |
+| [🛡️ Web Security Tester](https://github.com/Moe1000-stack/web-security-tester) | Tests for SQLi, XSS, open redirect, security headers, and path traversal | Python · BeautifulSoup |
+| [⚙️ CI/CD Security Scanner](https://github.com/Moe1000-stack/cicd-security-scanner) | Scans code for secrets, weak crypto, and IaC misconfigs. Outputs SARIF for GitHub | Python · GitHub Actions · SARIF |
+
+---
+
+## Tech Stack
+
+**Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+**AI & Security**
+![Claude](https://img.shields.io/badge/Claude_API-D97757?style=flat&logo=anthropic&logoColor=white)
+![LangChain](https://img.shields.io/badge/ChromaDB-1C3C3C?style=flat)
+![MITRE](https://img.shields.io/badge/MITRE_ATT%26CK-BE0000?style=flat)
+![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=flat)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kali-linux&logoColor=white)
+
+**Web & Backend**
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+
+**Tools**
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
 ## Certifications
 
-* CompTIA Security+
-* CompTIA CySA+
-* CompTIA PenTest+
-* Cisco CCNA
-* ISTQB Certified Tester
+![Security+](https://img.shields.io/badge/CompTIA-Security%2B-FF0000?style=flat&logo=comptia&logoColor=white)
+![CySA+](https://img.shields.io/badge/CompTIA-CySA%2B-FF0000?style=flat&logo=comptia&logoColor=white)
+![PenTest+](https://img.shields.io/badge/CompTIA-PenTest%2B-FF0000?style=flat&logo=comptia&logoColor=white)
+![CCNA](https://img.shields.io/badge/Cisco-CCNA-1BA0D7?style=flat&logo=cisco&logoColor=white)
+![ISTQB](https://img.shields.io/badge/ISTQB-Certified_Tester-009CDE?style=flat)
 
 ---
 
-## Current Focus
-
-* Building secure software and cybersecurity projects
-* Strengthening Python, JavaScript, TypeScript, and Next.js skills
-* Improving backend development and security automation
-* Building data analysis projects with Pandas, visualization, and Jupyter Notebook
-* Applying for software developer, cybersecurity, data analysis, and IT roles
-
----
-
-## Connect
-
-LinkedIn: https://www.linkedin.com/in/mohamedsalamacyber
+<div align="center">
+<i>Open to roles in Cybersecurity Engineering, AI Development, and Security Automation</i>
+</div>
